@@ -1,0 +1,7 @@
+# Renomeie este arquivo para: .env
+# Substitua seu-servidor-aqui por seu endereço Endereço IPv4;
+# Abra seu promtp de comando ou digite cmd no explorer ou executar (windows + r);
+# Digitie ipconfig e de enter;
+# Verifque se esta conectado a internet pelo wi-fi ou pelo ethernet e busque seu IPv4 correspondente.
+
+API_BASE_URL=http://seu-servidor-aqui:3000
